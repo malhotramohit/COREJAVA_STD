@@ -1,0 +1,6 @@
+1) Create a simple class called Office , mem var : Private Object obj, getter ,setter
+   Create two classes like Hr and Manager 
+   Create Test class inside that main in which create Objects of Hr and Manager
+   You need to convert Office to generic class.
+   
+   
